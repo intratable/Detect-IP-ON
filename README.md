@@ -29,7 +29,7 @@ para aplicarse en un grupo mas reducido de posibilidades, modificar el segundo a
 
 ## Build and install from source
 
-`git clone `
+`git clone https://github.com/intratable/Detect-IP-ON.git`
 
 `cd ip_on`
 
